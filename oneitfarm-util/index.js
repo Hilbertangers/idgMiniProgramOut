@@ -3,11 +3,11 @@ class OneitfarmUtil {
     if (params) {
       let jsonParams = JSON.stringify(params)
       wx.navigateTo({
-        url: `../${name}/${name}?params=${jsonParams}`
+        url: `../page${name}/page${name}?params=${jsonParams}`
       })
     } else {
       wx.navigateTo({
-        url: `../${name}/${name}`
+        url: `../page${name}/page${name}`
       })
     }
   }
