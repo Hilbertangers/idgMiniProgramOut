@@ -1,0 +1,10 @@
+[2021-02-07T10:40:41.428] [TRACE] builder - Current build mode is 'dev'.
+[2021-02-07T10:40:41.433] [WARN] builder - No such file.You need to create the 'E:\packages\pages\hello-world\index.json', otherwise the builder will create an useless file for you
+[2021-02-07T10:40:41.470] [TRACE] builder - 'app.json' has load completely.
+[2021-02-07T10:40:41.485] [TRACE] builder - Copy app.json to dist directory.
+[2021-02-07T10:40:41.485] [WARN] builder - No such file.You need to create the 'E:\project\idg-tpl-wxapp-wxapp\app.css', otherwise the builder will create an useless file for you
+[2021-02-07T10:40:41.486] [WARN] builder - No such file.You need to create the 'E:\project\idg-tpl-wxapp-wxapp\app.js', otherwise the builder will create an useless file for you
+[2021-02-07T10:40:41.502] [TRACE] builder - Copy assets to dist directory completely.
+[2021-02-07T10:40:41.992] [TRACE] builder - Copy framework to dist directory completely.
+[2021-02-07T10:40:47.325] [TRACE] builder - 'app-confg.js' has generated.
+[2021-02-07T10:40:47.325] [INFO] builder - Build completely.

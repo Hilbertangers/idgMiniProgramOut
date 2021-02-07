@@ -1,0 +1,13 @@
+.container {
+  padding: 0 16px;
+}
+.center {
+  text-align:center
+}
+.logo {
+  width: 128px;
+  height: 128px;
+  margin: 16px auto;
+  display: block;
+  border-radius: 50%;
+}

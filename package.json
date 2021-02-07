@@ -1,0 +1,22 @@
+{
+  "name": "@idg/mini-program-seed",
+  "version": "0.0.1",
+  "description": "A mini-program in idg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "build",
+    "build:dev": "build -d",
+    "build:prod": "build -p",
+    "build:zip": "build -z",
+    "build:pnz": "build -p -z",
+    "build:debug": "build -n -z"
+  },
+  "keywords": [
+    "mini-program"
+  ],
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@idg/mini-program-builder": "^1.2.0"
+  }
+}
