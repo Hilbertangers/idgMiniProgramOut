@@ -1,9 +1,0 @@
-{
-    "component": true,
-    "usingComponents":
-    {
-        "ListItem": "../ListItem/index",
-        "ListItemBrief": "../ListItemBrief/index",
-        "menu-checkbox": "../menu-checkbox/index"
-    }
-}

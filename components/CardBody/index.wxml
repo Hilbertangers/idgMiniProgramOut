@@ -1,3 +1,0 @@
-<view class="ci-card__bd">
-    <slot></slot>
-</view>

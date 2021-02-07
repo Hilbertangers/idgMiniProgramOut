@@ -1,3 +1,0 @@
-<view class="ci-list-item-brief">
-    <slot></slot>
-</view>
