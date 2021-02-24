@@ -20,3 +20,11 @@
 ```
 
 ## 工具
+
+
+## Tips
+
+* 如果 `app.json` 中指定了 `entryPagePath` ，优先使用此页面作为首页
+* `app.json` 中未指定 `entryPagePath` 时
+  * 如果 `GUI` 生成文件指定了 `entryPagePath` ，优先使用此页面作为首页
+  * 如果 `GUI` 生成文件未指定 `entryPagePath` ，优先级为 1. `app.json` 的 `pages` 数组第一项，2. `GUI` 生成文件的配置文件的 `pages` 数组第一项
