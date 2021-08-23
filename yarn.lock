@@ -10,12 +10,12 @@
     shelljs "^0.8.4"
     yargs "^15.0.2"
 
-"@idg/mini-program-builder@^1.3.0":
-  version "1.4.3"
-  resolved "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.4.3.tgz#b34e1d448ac896afbaa06291feacd9f18be4db22"
-  integrity sha512-o7cCGg0kcp1muRpPnzFoGJvxr8AMo43P56tVjDOVcsafco8btjsvHV2dqIDAR9CaZw2sHVZb55DfU7mt5nFQIg==
+"@idg/mini-program-builder@^1.4.6":
+  version "1.4.6"
+  resolved "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.4.6.tgz#05f17eb025045802a72ab4314538226e58b12a19"
+  integrity sha512-VMiZmzND4ptRV5Yd8WsbhEyKxdfCdSIm0RNpMduizYBkSQmZBPI1r7L7Iy8tHeoW8fqnPgbCO2Kux7EPAVtsoQ==
   dependencies:
-    "@idg/mini-program" "^1.3.0"
+    "@idg/mini-program" "^1.5.6"
     chalk "^3.0.0"
     compressing "^1.5.0"
     ejs "^3.0.1"
@@ -29,10 +29,10 @@
     webpack "^5.8.0"
     yargs "^15.0.2"
 
-"@idg/mini-program@^1.3.0", "@idg/mini-program@^1.5.4":
-  version "1.5.4"
-  resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.5.4.tgz#a48dbd0573be16b0e12671e32d135d8b7791fd2d"
-  integrity sha512-jtadiYthlqn8pRl2A9vt8xXEDcaVJK/xOJKqo+tyHMcFuUI2uqCFb3DdoyVCyLFz4BagoQqKYmpY+FLRCp9BcQ==
+"@idg/mini-program@^1.5.6":
+  version "1.5.6"
+  resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.5.6.tgz#057f210a1d4e0535d88155f97afc46b95d34d727"
+  integrity sha512-ECrWhVhOyKnfytUF039sahi4TbInE3IoWvjdC1kaL+OqRAplK6AvquXJVcK/m7N8+CiCzlW1I1Is++Y/Q79LGA==
 
 "@types/eslint-scope@^3.7.0":
   version "3.7.1"
