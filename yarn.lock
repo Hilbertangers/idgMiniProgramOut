@@ -29,6 +29,11 @@
     webpack "^5.8.0"
     yargs "^15.0.2"
 
+"@idg/mini-program@^1.5.16":
+  version "1.5.16"
+  resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.5.16.tgz#9b233041f97277d8dbba6527e7a43210df23fbfd"
+  integrity sha512-XAZukWHfq2fVmV22wALdAXM7IJJZ1qrCa/58+vKJqjCFVyBC4iJgSFXAd5ow+mymrdVxN/gR1xWI1pKTRgaPPA==
+
 "@idg/mini-program@^1.5.6":
   version "1.5.6"
   resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.5.6.tgz#057f210a1d4e0535d88155f97afc46b95d34d727"
