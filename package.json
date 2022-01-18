@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "build-gui && build -p -z -e app-gui.json",
-    "build:dev": "build -d",
-    "build:prod": "build -p",
+    "build:dev": "build-gui && build -d -e app-gui.json",
+    "build:prod": "build-gui && build -p -e app-gui.json",
     "build:zip": "build -z",
-    "build:pnz": "build -p -z",
-    "build:debug": "build -n -z"
+    "build:pnz": "build-gui && build -p -z -e app-gui.json",
+    "build:debug": "build-gui && build -n -z -e app-gui.json"
   },
   "keywords": [
     "mini-program"
