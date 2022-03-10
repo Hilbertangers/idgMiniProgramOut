@@ -21,6 +21,6 @@
     "@idg/mini-program-builder-gui": "^0.0.1"
   },
   "dependencies": {
-    "@idg/mini-program": "^1.6.14"
+    "@idg/mini-program": "^1.6.18"
   }
 }
