@@ -917,7 +917,7 @@
 
 "@idg/mini-program-builder@^1.4.12":
   version "1.4.12"
-  resolved "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.4.12.tgz"
+  resolved "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.4.12.tgz#fe6e145f605c4977f67c6a0dc4a594810de674d1"
   integrity sha512-qQ3NSZ2MTpeMWeTrTnba84BFOrou488/VwSU3PJmr+jwK8v5IWIVxrJZh0H/MM3V8P/s3/IImLJL5/9SLZ8ofw==
   dependencies:
     "@babel/core" "^7.16.0"
@@ -941,13 +941,13 @@
 
 "@idg/mini-program@^1.5.6":
   version "1.6.18"
-  resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.6.18.tgz"
-  integrity sha512-Kj9WxBtYtFcIkp1uj540mAczwqIaIbFdZmJJ62zHCc2/yDXIQRk8/PAd2VBZN5l0amTsNqj7W/tPl772EYD1bQ==
-
-"@idg/mini-program@^1.6.18":
-  version "1.6.18"
   resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.6.18.tgz#d5b0d43e434f56fa5bd4915a52d1ae99c453ed70"
   integrity sha512-Kj9WxBtYtFcIkp1uj540mAczwqIaIbFdZmJJ62zHCc2/yDXIQRk8/PAd2VBZN5l0amTsNqj7W/tPl772EYD1bQ==
+
+"@idg/mini-program@^1.6.20":
+  version "1.6.20"
+  resolved "https://npm.oneitfarm.com/@idg%2fmini-program/-/mini-program-1.6.20.tgz#495916dddc726809cef749566b6eac32ce4398ba"
+  integrity sha512-3QS0LUOU6jQ1nj+8Y19bxW90Kmphp+fEP3fQCu0nx1ogIkKBOpu308ezy+jFbKHcRzdDR8hu7NO7qUpdbNLE2Q==
 
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.0.5"
