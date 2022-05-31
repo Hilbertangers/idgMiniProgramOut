@@ -17,10 +17,10 @@
   ],
   "license": "GPL-3.0",
   "devDependencies": {
-    "@idg/mini-program-builder": "^1.5.5",
+    "@idg/mini-program-builder": "^1.5.7",
     "@idg/mini-program-builder-gui": "^0.0.1"
   },
   "dependencies": {
-    "@idg/mini-program": "^1.6.29"
+    "@idg/mini-program": "^1.6.39"
   }
 }
