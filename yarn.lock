@@ -992,10 +992,10 @@
     "shelljs" "^0.8.4"
     "yargs" "^15.0.2"
 
-"@idg/mini-program-builder@^1.5.7":
-  "integrity" "sha512-a8cPbnTCzxa8052PCHX6iGBd9XOq7JBFIHWSrUTYn+Ef+9IlZgvmgDuIndqHJTykLYz5DE2YmTMWyG6g5CU5dQ=="
-  "resolved" "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.5.7.tgz"
-  "version" "1.5.7"
+"@idg/mini-program-builder@^1.5.8":
+  "integrity" "sha512-oOXQqlpb9OAn9Y5sgHwor2nbc1QC14CKbIWCxWaFOKI0DwpIdoV0xPGNeSNInwagynk92LILtZvs0Lw73q/LtQ=="
+  "resolved" "https://npm.oneitfarm.com/@idg%2fmini-program-builder/-/mini-program-builder-1.5.8.tgz"
+  "version" "1.5.8"
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/plugin-transform-runtime" "^7.16.4"
