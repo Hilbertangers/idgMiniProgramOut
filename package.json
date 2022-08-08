@@ -1,5 +1,5 @@
 {
-  "name": "@idg/mini-program-seed",
+  "name": "idg-mini-program",
   "version": "0.0.1",
   "description": "A mini-program in idg",
   "main": "index.js",
