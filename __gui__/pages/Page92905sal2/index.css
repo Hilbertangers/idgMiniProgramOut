@@ -1,0 +1,48 @@
+/* iview样式，与GUI舞台保持一致 */
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+body {
+  font-family: "Chinese Quote", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  line-height: 1.5;
+}
+* {
+  box-sizing: border-box;
+}
+#page {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 16px;
+  line-height: normal;
+}
+wx-checkbox div.wx-checkbox-wrapper div.wx-checkbox-input {
+  margin-right: 0;
+}
+wx-switch div.wx-switch-wrapper div.wx-switch-input {
+  margin-right: 0;
+}
+wx-switch div.wx-switch-wrapper div.wx-checkbox-input {
+  margin-right: 0;
+}
+wx-radio div.wx-radio-wrapper div.wx-radio-input {
+  margin-right: 0;
+}
+.wx-input::placeholder {
+  color: #cccccc;
+}
+.wx-textarea::placeholder {
+  color: #cccccc;
+}
+
+.p92905_comp0_class {
+  width: 100% !important;
+  height: 100% !important;
+}
+#page {
+}

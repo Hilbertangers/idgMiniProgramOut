@@ -1,28 +1,28 @@
 {
-  "name": "idg-mini-program",
-  "version": "0.0.1",
-  "description": "A mini-program in idg",
-  "main": "dist/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "build-gui && build -p -z -e app-gui.json",
-    "build:dev": "build-gui && build -d -e app-gui.json",
-    "build:prod": "build-gui && build -p -e app-gui.json",
-    "build:zip": "build -z",
-    "build:pnz": "build-gui && build -p -z -e app-gui.json",
-    "build:debug": "build-gui && build -n -z -e app-gui.json && debug",
-    "pack": "build -c"
-  },
-  "keywords": [
-    "mini-program"
-  ],
-  "license": "GPL-3.0",
-  "devDependencies": {
-    "@idg/mini-program-builder": "^1.7.5",
-    "@idg/mini-program-builder-gui": "^0.0.1",
-    "@idg/mp-debug": "^1.0.2"
-  },
-  "dependencies": {
-    "@idg/mini-program": "^1.7.5"
-  }
+	"name": "idg-mini-program",
+	"version": "0.0.1",
+	"description": "A mini-program in idg",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "build-gui && build -p -z -e app-gui.json",
+		"build:dev": "build-gui && build -d -e app-gui.json",
+		"build:prod": "build-gui && build -p -e app-gui.json",
+		"build:zip": "build -z",
+		"build:pnz": "build-gui && build -p -z -e app-gui.json",
+		"build:debug": "build-gui && build -n -z -e app-gui.json && debug",
+		"pack": "build -c"
+	},
+	"keywords": [
+		"mini-program"
+	],
+	"license": "GPL-3.0",
+	"devDependencies": {
+		"@idg/mini-program-builder": "^1.7.5",
+		"@idg/mini-program-builder-gui": "^0.0.1",
+		"@idg/mp-debug": "^1.0.2"
+	},
+	"dependencies": {
+		"@idg/mini-program": "^1.7.22"
+	}
 }
